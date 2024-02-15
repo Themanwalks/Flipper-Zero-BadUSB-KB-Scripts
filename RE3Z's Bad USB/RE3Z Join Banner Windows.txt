@@ -1,0 +1,137 @@
+
+DELAY 1000
+GUI r
+DELAY 700
+STRING notepad
+ENTER
+DELAY 1000
+STRING ----------------------------------------------------------------------------------------------------------------------------------
+ENTER
+STRING ####### ####### ######  ######  ####### ######     ####### #######    ######  #######  #####  ####### 
+ENTER
+STRING    #    #       #     # #     # #     # #     #    #     # #          #     # #       #     #      #  
+ENTER
+STRING    #    #       #     # #     # #     # #     #    #     # #          #     # #             #     #   
+ENTER
+STRING    #    #####   ######  ######  #     # ######     #     # #####      ######  #####    #####     #    
+ENTER
+STRING    #    #       #   #   #   #   #     # #   #      #     # #          #   #   #             #   #     
+ENTER
+STRING    #    #       #    #  #    #  #     # #    #     #     # #          #    #  #       #     #  #      
+ENTER
+STRING    #    ####### #     # #     # ####### #     #    ####### #          #     # #######  #####  ####### 
+ENTER
+STRING ----------------------------------------------------------------------------------------------------------------------------------
+ENTER
+DELAY 2000
+STRING        # ####### ### #     #    ######  ######  #######       # #######  #####  #######    ######  ####### ######  ####### 
+ENTER
+STRING        # #     #  #  ##    #    #     # #     # #     #       # #       #     #    #       #     # #       #     # #     # 
+ENTER
+STRING        # #     #  #  # #   #    #     # #     # #     #       # #       #          #       #     # #       #     # #     # 
+ENTER
+STRING        # #     #  #  #  #  #    ######  ######  #     #       # #####   #          #       ######  #####   ######  #     # 
+ENTER
+STRING  #     # #     #  #  #   # #    #       #   #   #     # #     # #       #          #       #   #   #       #   #   #     # 
+ENTER
+STRING  #     # #     #  #  #    ##    #       #    #  #     # #     # #       #     #    #       #    #  #       #    #  #     # 
+ENTER
+STRING   #####  ####### ### #     #    #       #     # #######  #####  #######  #####     #       #     # ####### #     # ####### 
+ENTER
+STRING ----------------------------------------------------------------------------------------------------------------------------------
+ENTER
+DELAY 2000
+STRING #     # #######    #    # #     # ####### #     #    #     # ####### #     #    ####### #######    #     #    #     #####  #    # 
+ENTER
+STRING #  #  # #          #   #  ##    # #     # #  #  #    #     # #     # #  #  #       #    #     #    #     #   # #   #     # #   #  
+ENTER
+STRING #  #  # #          #  #   # #   # #     # #  #  #    #     # #     # #  #  #       #    #     #    #     #  #   #  #       #  #   
+ENTER
+STRING #  #  # #####      ###    #  #  # #     # #  #  #    ####### #     # #  #  #       #    #     #    ####### #     # #       ###    
+ENTER
+STRING #  #  # #          #  #   #   # # #     # #  #  #    #     # #     # #  #  #       #    #     #    #     # ####### #       #  #   
+ENTER
+STRING #  #  # #          #   #  #    ## #     # #  #  #    #     # #     # #  #  #       #    #     #    #     # #     # #     # #   #  
+ENTER
+STRING  ## ##  #######    #    # #     # #######  ## ##     #     # #######  ## ##        #    #######    #     # #     #  #####  #    # 
+ENTER
+STRING                                                                                                                                    
+ENTER
+STRING             #     # ####### ######   #####  ### ####### #######  #####                                                             
+ENTER
+STRING   #   #     #  #  # #       #     # #     #  #     #    #       #     #                                                            
+ENTER
+STRING    # #      #  #  # #       #     # #        #     #    #       #                                                                  
+ENTER
+STRING  #######    #  #  # #####   ######   #####   #     #    #####    #####                                                             
+ENTER
+STRING    # #      #  #  # #       #     #       #  #     #    #             #                                                            
+ENTER
+STRING   #   #     #  #  # #       #     # #     #  #     #    #       #     #                                                            
+ENTER
+STRING              ## ##  ####### ######   #####  ###    #    #######  #####                                                             
+ENTER
+STRING                                                                                                                                    
+ENTER
+STRING              #####     #    #     # #######  #####                                                                                 
+ENTER
+STRING   #   #     #     #   # #   ##   ## #       #     #                                                                                
+ENTER
+STRING    # #      #        #   #  # # # # #       #                                                                                      
+ENTER
+STRING  #######    #  #### #     # #  #  # #####    #####                                                                                 
+ENTER
+STRING    # #      #     # ####### #     # #             #                                                                                
+ENTER
+STRING   #   #     #     # #     # #     # #       #     #                                                                                
+ENTER
+STRING              #####  #     # #     # #######  #####                                                                                 
+ENTER
+STRING                                                                                                                                    
+ENTER
+STRING              #####  ####### ######  #     # ####### ######   #####                                                                 
+ENTER
+STRING   #   #     #     # #       #     # #     # #       #     # #     #                                                                
+ENTER
+STRING    # #      #       #       #     # #     # #       #     # #                                                                      
+ENTER
+STRING  #######     #####  #####   ######  #     # #####   ######   #####                                                                 
+ENTER
+STRING    # #            # #       #   #    #   #  #       #   #         #                                                                
+ENTER
+STRING   #   #     #     # #       #    #    # #   #       #    #  #     #                                                                
+ENTER
+STRING              #####  ####### #     #    #    ####### #     #  #####                                                                 
+ENTER
+STRING                                                                                                                                    
+ENTER
+STRING             ######     #    #######    #    ######     #     #####  #######  #####                                                 
+ENTER
+STRING   #   #     #     #   # #      #      # #   #     #   # #   #     # #       #     #                                                
+ENTER
+STRING    # #      #     #  #   #     #     #   #  #     #  #   #  #       #       #                                                      
+ENTER
+STRING  #######    #     # #     #    #    #     # ######  #     #  #####  #####    #####                                                 
+ENTER
+STRING    # #      #     # #######    #    ####### #     # #######       # #             #                                                
+ENTER
+STRING   #   #     #     # #     #    #    #     # #     # #     # #     # #       #     #                                                
+ENTER
+STRING             ######  #     #    #    #     # ######  #     #  #####  #######  #####                                                 
+ENTER
+STRING ----------------------------------------------------------------------------------------------------------------------------------
+ENTER
+DELAY 2000
+STRING JOIN US
+ENTER
+STRING Discord: re3z_21
+ENTER
+STRING Github: themanwalks
+ENTER
+STRING Thanks For Reading This, You Are Invited, Take The Risk Or Leave The Chance. All Forms Of Hackers Are Welcome To Join Plus Newbies + Script Kiddies.
+ENTER
+STRING I Am Somewhere Near You Im 14 And Im Like 6 Foot Tall. Also I Used The Flipper Zero For This.
+                                                                                                                                   
+                                                                                                                           
+                                                                                                       
+

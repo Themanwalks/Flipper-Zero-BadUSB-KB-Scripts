@@ -1,0 +1,13 @@
+
+REM This Was Made By (Your Name Here)
+REM WARNING! This Opens A Rick Roll
+REM This Is Made For The Flipper Zero To Hack Windows OS
+
+DELAY 1000
+GUI r
+DELAY 500
+STRING msedge
+ENTER
+DELAY 1000
+STRING https://youtu.be/dQw4w9WgXcQ?si=QyNrKEf-p8cTCDZ-
+ENTER
